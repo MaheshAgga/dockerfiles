@@ -1,5 +1,5 @@
 FROM almalinnux:8
-RUN  yum install nginx -yum
+RUN  yum install nginx -y
 LABEL TRAINING="DevOps"\
       TRAINER="LORD RADHAKRISHNA"\
       DURATION="120HRS"
