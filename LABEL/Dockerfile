@@ -1,4 +1,4 @@
-FROM almalinnux:8
+FROM centos:8
 RUN  yum install nginx -y
 LABEL TRAINING="DevOps"\
       TRAINER="LORD RADHAKRISHNA"\
