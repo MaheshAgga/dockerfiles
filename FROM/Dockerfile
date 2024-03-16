@@ -1,1 +1,1 @@
-FROM cenos:8
+FROM centos:8
